@@ -1,5 +1,10 @@
 package net.kaixindog.entity;
 
+/**
+ * 
+ * @author think
+ *
+ */
 public class WebURL {
 	
 	private String url;
